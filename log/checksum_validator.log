@@ -1,0 +1,1118 @@
+2017-12-29 01:48:43,482 ERROR Validation of checksum map complete.
+2017-12-29 01:48:43,483 ERROR Report build complete.
+2017-12-29 01:50:03,000 ERROR Error validating checksum map: cannot concatenate 'str' and 'int' objects<type 'exceptions.TypeError'>checksum_validator.py174
+2017-12-29 01:51:06,232 ERROR Error validating checksum map: append() takes exactly one argument (2 given)<type 'exceptions.TypeError'>checksum_validator.py174
+2017-12-29 01:51:42,457 ERROR Error validating checksum map: list index out of range<type 'exceptions.IndexError'>checksum_validator.py212
+2017-12-29 02:03:04,764 ERROR Error validating checksum map: global name 'i' is not defined<type 'exceptions.NameError'>checksum_validator.py218
+2017-12-29 02:17:34,044 ERROR Validation of checksum map complete.
+2017-12-29 02:17:34,062 ERROR Report build complete.
+2017-12-29 02:18:49,089 ERROR Validation of checksum map complete.
+2017-12-29 02:18:49,107 ERROR Report build complete.
+2017-12-30 01:57:00,223 ERROR Failed to build command arguments: 'list' object is not callable<type 'exceptions.TypeError'>checksum_validator.py374
+2017-12-30 02:20:22,201 ERROR Error creating checksum map: argument 1 must be string or read-only buffer, not builtin_function_or_methodargument 1 must be string or read-only buffer, not builtin_function_or_method<type 'exceptions.TypeError'>checksum_validator.py100
+2017-12-30 02:21:01,087 ERROR Error creating checksum map: argument 1 must be string or read-only buffer, not builtin_function_or_methodargument 1 must be string or read-only buffer, not builtin_function_or_method<type 'exceptions.TypeError'>checksum_validator.py100
+2017-12-30 02:23:13,339 ERROR Error writing checksum map to file: argument 1 must be string or read-only buffer, not builtin_function_or_methodargument 1 must be string or read-only buffer, not builtin_function_or_method<type 'exceptions.TypeError'>checksum_validator.py133
+2017-12-30 02:23:59,616 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:31:06,393 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:31:34,925 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:33:14,016 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:33:32,058 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:34:11,327 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:34:19,479 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:36:58,704 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:37:15,314 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py134
+2017-12-30 02:38:50,327 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py138
+2017-12-30 02:41:38,140 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py141
+2017-12-30 02:46:14,099 ERROR Error writing checksum map to file: cannot concatenate 'str' and 'int' objectscannot concatenate 'str' and 'int' objects<type 'exceptions.TypeError'>checksum_validator.py139
+2017-12-30 02:47:16,814 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py139
+2017-12-30 02:47:56,487 ERROR Error writing checksum map to file: Input strings must be a multiple of 16 in lengthInput strings must be a multiple of 16 in length<type 'exceptions.ValueError'>checksum_validator.py140
+2017-12-30 02:58:31,710 ERROR Error importing data from file: global name 'mode' is not defined<type 'exceptions.NameError'>checksum_validator.py287
+2017-12-30 02:59:08,118 ERROR Error importing data from file: argument must be string or read-only buffer, not list<type 'exceptions.TypeError'>checksum_validator.py289
+2017-12-30 03:00:32,586 ERROR Error importing data from file: argument must be string or read-only buffer, not list<type 'exceptions.TypeError'>checksum_validator.py289
+2017-12-30 03:01:53,631 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py307
+2017-12-30 03:02:33,442 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py308
+2017-12-30 03:06:24,665 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py307
+2017-12-30 03:10:37,300 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py312
+2017-12-30 03:11:29,983 ERROR Error importing data from file: 'builtin_function_or_method' object has no attribute '__getitem__'<type 'exceptions.TypeError'>checksum_validator.py312
+2017-12-30 03:11:55,930 ERROR Error importing data from file: 'builtin_function_or_method' object has no attribute '__getitem__'<type 'exceptions.TypeError'>checksum_validator.py312
+2017-12-30 03:12:45,242 ERROR Error importing data from file: 'builtin_function_or_method' object has no attribute '__getitem__'<type 'exceptions.TypeError'>checksum_validator.py313
+2017-12-30 03:13:55,693 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py314
+2017-12-30 03:14:52,495 ERROR Validation of checksum map complete.
+2017-12-30 03:14:52,495 ERROR Report build complete.
+2017-12-30 03:15:25,697 ERROR Validation of checksum map complete.
+2017-12-30 03:15:25,708 ERROR Report build complete.
+2017-12-30 03:21:06,415 ERROR Validation of checksum map complete.
+2017-12-30 03:21:45,930 ERROR Validation of checksum map complete.
+2017-12-30 03:22:09,297 ERROR Validation of checksum map complete.
+2017-12-30 03:22:48,904 ERROR Validation of checksum map complete.
+2017-12-30 03:24:12,696 ERROR Validation of checksum map complete.
+2017-12-30 03:24:28,629 ERROR Validation of checksum map complete.
+2017-12-30 03:25:02,334 ERROR Validation of checksum map complete.
+2017-12-30 03:25:22,276 ERROR Validation of checksum map complete.
+2017-12-30 03:26:37,530 ERROR Validation of checksum map complete.
+2017-12-30 03:26:43,038 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py311
+2017-12-30 04:00:36,589 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py316
+2017-12-30 04:01:02,831 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py315
+2017-12-30 04:02:22,017 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py315
+2017-12-30 04:04:52,248 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py316
+2017-12-30 04:05:25,860 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py315
+2017-12-30 04:07:02,638 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py317
+2017-12-30 04:08:07,469 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py316
+2017-12-30 04:08:33,877 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py316
+2017-12-30 04:09:05,187 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py316
+2017-12-30 04:09:17,030 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py316
+2017-12-30 04:13:29,699 ERROR Error importing data from file: list index out of range<type 'exceptions.IndexError'>checksum_validator.py317
+2017-12-30 04:14:33,226 ERROR Validation of checksum map complete.
+2017-12-30 04:23:24,834 ERROR Validation of checksum map complete.
+2017-12-30 04:26:06,367 ERROR Validation of checksum map complete.
+2018-03-16 15:39:46,695 ERROR Failed to build exclution set: string index out of range<type 'exceptions.IndexError'>checksum_validator.py520
+2018-03-16 15:40:20,328 ERROR Failed to build exclution set: string index out of range<type 'exceptions.IndexError'>checksum_validator.py520
+2018-03-16 16:14:08,344 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/.exclusion.txt
+2018-03-16 16:14:08,344 INFO Exclusion set created successfully.
+2018-03-16 16:14:08,345 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:14:08,347 INFO Success creating checksum map.
+2018-03-16 16:14:31,868 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/.exclusion.txt
+2018-03-16 16:14:31,868 INFO Exclusion set created successfully.
+2018-03-16 16:14:31,870 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:14:31,871 INFO Success creating checksum map.
+2018-03-16 16:15:30,779 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/.exclusion.txt
+2018-03-16 16:15:30,779 INFO Exclusion set created successfully.
+2018-03-16 16:15:30,781 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:15:30,783 INFO Success creating checksum map.
+2018-03-16 16:26:16,690 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:26:16,702 ERROR Attepmt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:31:27,923 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:31:27,924 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/.exclusion.txt
+2018-03-16 16:31:27,924 INFO Exclusion set created successfully.
+2018-03-16 16:31:27,970 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:31:28,069 INFO Success creating checksum map.
+2018-03-16 16:42:08,630 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:42:08,630 ERROR Attempt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:42:28,609 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:42:28,609 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-16 16:42:28,609 ERROR Failed to build exclusion set: [Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validatorUsers_development_Documents_Software_scripts_python_checksum_validator_test_suite_exclusion'<type 'exceptions.IOError'>checksum_validator.py527
+2018-03-16 16:44:29,226 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:44:29,227 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-16 16:44:29,227 ERROR Failed to build exclusion set: [Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validator/log/Users_development_Documents_Software_scripts_python_checksum_validator_test_suite_exclusion'<type 'exceptions.IOError'>checksum_validator.py527
+2018-03-16 16:46:10,825 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:46:10,826 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-16 16:46:10,826 INFO Exclusion set created successfully.
+2018-03-16 16:46:10,865 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:46:11,303 INFO Success creating checksum map.
+2018-03-16 16:52:09,788 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:52:09,805 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:52:09,889 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:52:09,892 ERROR Validation of checksum map complete.
+2018-03-16 16:53:31,144 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:53:31,161 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:53:31,246 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:53:31,247 ERROR Validation of checksum map complete.
+2018-03-16 16:53:49,095 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:53:49,097 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:53:49,098 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 16:53:49,099 ERROR Validation of checksum map complete.
+2018-03-16 18:12:05,470 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:12:05,593 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:12:05,725 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:12:05,751 ERROR Validation of checksum map complete.
+2018-03-16 18:12:05,751 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:12:05,765 INFO Success sending report by email to: administrator@company.com
+2018-03-16 18:12:05,765 INFO Success sending report by email to: administrator2@company.com
+2018-03-16 18:12:05,765 INFO Report build complete.
+2018-03-16 18:12:57,702 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:12:57,716 ERROR Attempt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:13:23,625 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:13:23,649 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-16 18:13:23,652 INFO Exclusion set created successfully.
+2018-03-16 18:13:23,682 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:13:23,760 INFO Success creating checksum map.
+2018-03-16 18:14:28,636 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 18:14:28,650 ERROR Attempt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 18:14:47,036 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 18:14:47,050 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-16 18:14:47,051 INFO Exclusion set created successfully.
+2018-03-16 18:14:47,083 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite
+2018-03-16 18:14:47,193 INFO Success creating checksum map.
+2018-03-16 18:15:02,961 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:15:02,962 ERROR Attempt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:15:09,167 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:15:09,168 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:15:09,169 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:15:09,170 ERROR Validation of checksum map complete.
+2018-03-16 18:15:09,170 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:15:09,171 INFO Success sending report by email to: administrator@company.com
+2018-03-16 18:15:09,171 INFO Success sending report by email to: administrator2@company.com
+2018-03-16 18:15:09,171 INFO Report build complete.
+2018-03-16 18:18:12,206 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:18:12,262 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:18:12,338 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:18:12,352 ERROR Validation of checksum map complete.
+2018-03-16 18:18:12,352 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 18:18:12,368 INFO Success sending report by email to: administrator@company.com
+2018-03-16 18:18:12,368 INFO Success sending report by email to: administrator2@company.com
+2018-03-16 18:18:12,395 INFO Report build complete.
+2018-03-16 21:33:25,617 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:33:25,673 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:33:25,771 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:33:25,785 ERROR Validation of checksum map complete.
+2018-03-16 21:33:25,785 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:33:25,801 INFO Success sending report by email to: administrator@company.com
+2018-03-16 21:33:25,801 INFO Success sending report by email to: administrator2@company.com
+2018-03-16 21:33:25,816 INFO Report build complete.
+2018-03-16 21:37:37,994 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:37:38,021 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:37:38,118 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:37:38,119 ERROR Validation of checksum map complete.
+2018-03-16 21:37:38,120 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:37:38,121 INFO Success sending report by email to: administrator@company.com
+2018-03-16 21:37:38,121 INFO Success sending report by email to: administrator2@company.com
+2018-03-16 21:37:38,121 INFO Report build complete.
+2018-03-16 21:46:35,220 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:46:35,246 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:46:35,333 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:46:35,335 ERROR Validation of checksum map complete.
+2018-03-16 21:46:35,335 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:46:35,336 INFO Success sending report by email to: administrator@company.com
+2018-03-16 21:46:35,336 INFO Success sending report by email to: administrator2@company.com
+2018-03-16 21:46:35,337 INFO Report build complete.
+2018-03-16 21:51:42,544 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:56:21,290 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:59:10,269 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:59:10,282 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-16 21:59:10,282 INFO Exclusion set created successfully.
+2018-03-16 21:59:10,284 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:59:10,383 INFO Success creating checksum map.
+2018-03-16 21:59:57,437 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 21:59:57,471 ERROR Attempt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:00:11,135 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:00:11,160 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:00:11,249 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:00:11,250 ERROR Validation of checksum map complete.
+2018-03-16 22:03:16,293 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:03:16,326 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:03:16,415 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:03:16,417 ERROR Validation of checksum map complete.
+2018-03-16 22:09:10,575 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:09:10,641 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:09:10,718 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:09:10,739 ERROR Validation of checksum map complete.
+2018-03-16 22:09:10,739 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:09:10,740 INFO Success sending report by email to: administrator@company.com
+2018-03-16 22:09:10,740 INFO Success sending report by email to: administrator2@company.com
+2018-03-16 22:09:10,741 INFO Report build complete.
+2018-03-16 22:10:35,605 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:10:35,606 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-16 22:10:35,606 INFO Exclusion set created successfully.
+2018-03-16 22:10:35,607 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:10:35,609 INFO Success creating checksum map.
+2018-03-16 22:10:45,333 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:10:45,334 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:10:45,335 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-16 22:10:45,336 ERROR Validation of checksum map complete.
+2018-03-17 10:53:02,173 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 10:53:02,229 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 10:53:02,306 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 10:53:02,321 INFO Validation of checksum map complete.
+2018-03-17 10:57:40,615 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 10:57:40,617 INFO Sucess creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 10:57:40,618 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 10:57:40,619 INFO Validation of checksum map complete.
+2018-03-17 10:57:40,619 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 10:57:40,619 INFO Success sending report by email to: administrator@company.com
+2018-03-17 10:57:40,619 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 10:57:40,620 INFO Report build complete.
+2018-03-17 11:14:40,974 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:14:40,989 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:14:41,074 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:14:41,090 INFO Validation of checksum map complete.
+2018-03-17 11:14:41,091 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:14:41,093 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:14:41,093 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:14:41,094 INFO Report build complete.
+2018-03-17 11:15:09,138 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:15:09,140 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:15:09,141 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:15:09,142 INFO Validation of checksum map complete.
+2018-03-17 11:15:09,142 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:15:09,143 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:15:09,143 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:15:09,143 INFO Report build complete.
+2018-03-17 11:35:18,312 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:35:18,339 ERROR Error creating filepath map: 'int' object has no attribute 'strip'<type 'exceptions.AttributeError'>checksum_validator.py54
+2018-03-17 11:35:35,000 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:35:35,035 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:35:35,111 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:35:35,127 INFO Validation of checksum map complete.
+2018-03-17 11:35:35,127 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:35:35,128 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:35:35,128 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:35:35,129 INFO Report build complete.
+2018-03-17 11:36:07,459 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:07,461 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:07,463 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:07,463 INFO Validation of checksum map complete.
+2018-03-17 11:36:07,463 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:07,464 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:36:07,464 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:36:07,464 INFO Report build complete.
+2018-03-17 11:36:26,589 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:26,610 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:26,712 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:26,728 INFO Validation of checksum map complete.
+2018-03-17 11:36:26,728 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:36:26,729 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:36:26,729 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:36:26,730 INFO Report build complete.
+2018-03-17 11:37:16,323 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:37:16,345 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:37:16,435 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:37:16,451 INFO Validation of checksum map complete.
+2018-03-17 11:37:16,452 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:37:16,452 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:37:16,453 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:37:16,453 INFO Report build complete.
+2018-03-17 11:39:58,948 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:39:58,967 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-17 11:39:58,985 INFO Exclusion set created successfully.
+2018-03-17 11:39:59,018 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:39:59,104 INFO Success creating checksum map.
+2018-03-17 11:41:24,658 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:24,696 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:24,759 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:24,761 INFO Validation of checksum map complete.
+2018-03-17 11:41:24,761 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:24,761 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:41:24,761 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:41:24,762 INFO Report build complete.
+2018-03-17 11:41:42,248 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:42,250 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:42,251 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:42,252 INFO Validation of checksum map complete.
+2018-03-17 11:41:42,252 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:41:42,252 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:41:42,252 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:41:42,253 INFO Report build complete.
+2018-03-17 11:44:50,996 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:44:51,063 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:44:51,117 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:44:51,119 INFO Validation of checksum map complete.
+2018-03-17 11:44:51,119 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:44:51,136 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:44:51,136 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:44:51,162 INFO Report build complete.
+2018-03-17 11:49:42,854 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:49:42,874 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.txt
+2018-03-17 11:49:42,891 INFO Exclusion set created successfully.
+2018-03-17 11:49:42,922 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:49:42,987 INFO Success creating checksum map.
+2018-03-17 11:50:47,732 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:50:47,760 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:50:47,810 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:50:47,812 INFO Validation of checksum map complete.
+2018-03-17 11:50:47,812 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:50:47,813 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:50:47,813 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:50:47,813 INFO Report build complete.
+2018-03-17 11:56:48,102 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:56:48,131 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:56:48,192 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:56:48,194 INFO Validation of checksum map complete.
+2018-03-17 11:56:48,194 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:56:48,195 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:56:48,195 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:56:48,196 INFO Report build complete.
+2018-03-17 11:57:08,336 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:08,381 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:08,437 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:08,452 INFO Validation of checksum map complete.
+2018-03-17 11:57:08,453 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:08,453 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:57:08,454 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:57:08,454 INFO Report build complete.
+2018-03-17 11:57:28,661 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:28,662 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:28,663 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:28,663 INFO Validation of checksum map complete.
+2018-03-17 11:57:28,663 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:57:28,664 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:57:28,664 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:57:28,664 INFO Report build complete.
+2018-03-17 11:58:06,582 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:58:06,602 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:58:06,659 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:58:06,675 INFO Validation of checksum map complete.
+2018-03-17 11:58:06,675 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 11:58:06,676 INFO Success sending report by email to: administrator@company.com
+2018-03-17 11:58:06,676 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 11:58:06,676 INFO Report build complete.
+2018-03-17 12:07:01,644 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:07:01,693 ERROR Error creating filepath map: unsupported operand type(s) for -: 'str' and 'int'<type 'exceptions.TypeError'>checksum_validator.py60
+2018-03-17 12:07:24,701 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:07:24,733 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:07:24,787 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:07:24,803 INFO Validation of checksum map complete.
+2018-03-17 12:07:24,803 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:07:24,804 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:07:24,804 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:07:24,804 INFO Report build complete.
+2018-03-17 12:08:09,478 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:08:09,480 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:08:09,481 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:08:09,481 INFO Validation of checksum map complete.
+2018-03-17 12:08:09,481 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:08:09,482 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:08:09,482 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:08:09,482 INFO Report build complete.
+2018-03-17 12:09:22,012 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:09:22,014 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:09:22,015 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:09:22,015 INFO Validation of checksum map complete.
+2018-03-17 12:09:22,015 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:09:22,016 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:09:22,016 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:09:22,016 INFO Report build complete.
+2018-03-17 12:13:14,001 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:13:14,023 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:13:14,023 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:13:14,024 INFO Validation of checksum map complete.
+2018-03-17 12:13:14,024 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:13:14,025 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:13:14,025 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:13:14,025 INFO Report build complete.
+2018-03-17 12:14:40,400 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:14:40,412 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:14:40,413 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:14:40,414 INFO Validation of checksum map complete.
+2018-03-17 12:14:40,414 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:14:40,415 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:14:40,415 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:14:40,415 INFO Report build complete.
+2018-03-17 12:15:44,923 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:15:44,946 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:15:44,946 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:15:44,947 INFO Validation of checksum map complete.
+2018-03-17 12:15:44,947 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:15:44,948 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:15:44,948 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:15:44,948 INFO Report build complete.
+2018-03-17 12:17:58,448 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:17:58,469 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:17:58,514 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:17:58,515 INFO Validation of checksum map complete.
+2018-03-17 12:17:58,516 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:17:58,517 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:17:58,517 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:17:58,517 INFO Report build complete.
+2018-03-17 12:48:26,239 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:26,295 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:26,348 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:26,350 INFO Validation of checksum map complete.
+2018-03-17 12:48:26,350 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:26,367 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:48:26,368 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:48:26,368 INFO Report build complete.
+2018-03-17 12:48:48,670 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:48,693 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:48,738 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:48,739 INFO Validation of checksum map complete.
+2018-03-17 12:48:48,739 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:48:48,751 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:48:48,751 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:48:48,752 INFO Report build complete.
+2018-03-17 12:49:44,582 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:49:44,602 ERROR Error creating filepath map: 'str' object has no attribute 'pop'<type 'exceptions.AttributeError'>checksum_validator.py50
+2018-03-17 12:50:23,627 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:50:23,646 ERROR Error creating filepath map: 'str' object has no attribute 'pop'<type 'exceptions.AttributeError'>checksum_validator.py49
+2018-03-17 12:51:19,683 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:51:19,715 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:51:19,761 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:51:19,762 INFO Validation of checksum map complete.
+2018-03-17 12:51:19,762 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:51:19,763 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:51:19,763 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:51:19,764 INFO Report build complete.
+2018-03-17 12:52:34,207 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:52:34,263 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:52:34,306 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:52:34,306 INFO Validation of checksum map complete.
+2018-03-17 12:52:34,307 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:52:34,307 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:52:34,307 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:52:34,320 INFO Report build complete.
+2018-03-17 12:52:48,955 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:52:48,956 ERROR Error creating filepath map: 'str' object has no attribute 'pop'<type 'exceptions.AttributeError'>checksum_validator.py49
+2018-03-17 12:53:14,440 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:53:14,442 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:53:14,442 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:53:14,443 INFO Validation of checksum map complete.
+2018-03-17 12:53:14,443 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:53:14,444 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:53:14,444 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:53:14,444 INFO Report build complete.
+2018-03-17 12:54:15,133 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:54:15,134 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:54:15,135 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:54:15,136 INFO Validation of checksum map complete.
+2018-03-17 12:54:15,136 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:54:15,136 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:54:15,136 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:54:15,137 INFO Report build complete.
+2018-03-17 12:55:14,470 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:55:14,472 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:55:14,472 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:55:14,473 INFO Validation of checksum map complete.
+2018-03-17 12:55:14,473 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:55:14,473 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:55:14,474 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:55:14,474 INFO Report build complete.
+2018-03-17 12:57:34,478 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:57:34,480 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:57:34,481 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:57:34,481 INFO Validation of checksum map complete.
+2018-03-17 12:57:34,481 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:57:34,482 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:57:34,482 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:57:34,482 INFO Report build complete.
+2018-03-17 12:58:21,107 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:58:21,108 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:58:21,141 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:58:21,142 INFO Validation of checksum map complete.
+2018-03-17 12:58:21,143 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:58:21,143 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:58:21,144 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:58:21,144 INFO Report build complete.
+2018-03-17 12:59:28,165 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:59:28,211 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:59:28,253 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:59:28,253 INFO Validation of checksum map complete.
+2018-03-17 12:59:28,254 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 12:59:28,273 INFO Success sending report by email to: administrator@company.com
+2018-03-17 12:59:28,273 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 12:59:28,288 INFO Report build complete.
+2018-03-17 13:00:28,405 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:00:28,406 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:00:28,407 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:00:28,408 INFO Validation of checksum map complete.
+2018-03-17 13:00:28,408 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:00:28,408 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:00:28,408 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:00:28,408 INFO Report build complete.
+2018-03-17 13:01:11,969 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:01:11,971 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:01:11,972 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:01:11,973 INFO Validation of checksum map complete.
+2018-03-17 13:01:11,973 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:01:11,974 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:01:12,088 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:01:12,089 INFO Report build complete.
+2018-03-17 13:02:44,478 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:03:21,132 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:03:21,132 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 13:03:21,143 INFO Exclusion set created successfully.
+2018-03-17 13:03:21,168 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:03:21,244 INFO Success creating checksum map.
+2018-03-17 13:03:25,876 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:03:25,878 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:03:25,879 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:03:25,880 INFO Validation of checksum map complete.
+2018-03-17 13:03:25,880 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:03:25,880 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:03:25,881 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:03:25,881 INFO Report build complete.
+2018-03-17 13:04:53,289 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:04:53,336 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:04:53,388 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:04:53,389 INFO Validation of checksum map complete.
+2018-03-17 13:04:53,389 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:04:53,403 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:04:53,403 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:04:53,424 INFO Report build complete.
+2018-03-17 13:06:01,511 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:01,539 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:01,556 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:01,557 INFO Validation of checksum map complete.
+2018-03-17 13:06:01,557 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:01,557 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:06:01,558 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:06:01,558 INFO Report build complete.
+2018-03-17 13:06:28,701 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:28,729 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:28,745 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:28,746 INFO Validation of checksum map complete.
+2018-03-17 13:06:28,746 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:06:28,747 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:06:28,747 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:06:28,747 INFO Report build complete.
+2018-03-17 13:07:31,501 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:07:31,502 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:07:31,502 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:07:31,503 INFO Validation of checksum map complete.
+2018-03-17 13:07:31,503 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:07:31,503 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:07:31,503 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:07:31,504 INFO Report build complete.
+2018-03-17 13:08:25,470 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:08:25,526 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:08:25,535 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:08:25,535 INFO Validation of checksum map complete.
+2018-03-17 13:08:25,536 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:08:25,536 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:08:25,536 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:08:25,554 INFO Report build complete.
+2018-03-17 13:09:24,240 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:24,240 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 13:09:24,246 INFO Exclusion set created successfully.
+2018-03-17 13:09:24,248 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:24,248 INFO Success creating checksum map.
+2018-03-17 13:09:28,690 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:28,705 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:28,706 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:28,708 INFO Validation of checksum map complete.
+2018-03-17 13:09:28,709 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:28,709 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:09:28,709 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:09:28,710 INFO Report build complete.
+2018-03-17 13:09:51,747 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:51,777 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:51,791 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:51,792 INFO Validation of checksum map complete.
+2018-03-17 13:09:51,792 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:09:51,793 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:09:51,793 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:09:51,793 INFO Report build complete.
+2018-03-17 13:11:49,082 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:11:49,138 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:11:49,147 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:11:49,148 INFO Validation of checksum map complete.
+2018-03-17 13:11:49,149 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:11:49,149 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:11:49,149 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:11:49,182 INFO Report build complete.
+2018-03-17 13:13:04,415 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:13:04,446 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:13:04,459 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:13:04,459 INFO Validation of checksum map complete.
+2018-03-17 13:13:04,460 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:13:04,460 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:13:04,460 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:13:04,460 INFO Report build complete.
+2018-03-17 13:15:17,229 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:15:17,295 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:15:17,305 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:15:17,306 INFO Validation of checksum map complete.
+2018-03-17 13:15:17,306 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:15:17,318 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:15:17,319 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:15:17,350 INFO Report build complete.
+2018-03-17 13:17:55,730 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:17:55,797 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:17:55,805 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:17:55,807 INFO Validation of checksum map complete.
+2018-03-17 13:17:55,807 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:17:55,819 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:17:55,820 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:17:55,852 INFO Report build complete.
+2018-03-17 13:21:39,787 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:21:39,842 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:21:39,852 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:21:39,853 INFO Validation of checksum map complete.
+2018-03-17 13:21:39,853 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:21:39,854 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:21:39,854 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:21:39,854 INFO Report build complete.
+2018-03-17 13:22:04,364 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:04,366 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:04,366 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:04,367 INFO Validation of checksum map complete.
+2018-03-17 13:22:04,367 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:04,367 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:22:04,367 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:22:04,368 INFO Report build complete.
+2018-03-17 13:22:46,444 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:46,446 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:46,447 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:46,447 INFO Validation of checksum map complete.
+2018-03-17 13:22:46,447 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:46,448 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:22:46,448 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:22:46,448 INFO Report build complete.
+2018-03-17 13:22:53,068 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:53,070 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:53,070 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:53,070 INFO Validation of checksum map complete.
+2018-03-17 13:22:53,071 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:22:53,071 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:22:53,071 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:22:53,071 INFO Report build complete.
+2018-03-17 13:23:20,779 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:20,781 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:20,782 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:20,782 INFO Validation of checksum map complete.
+2018-03-17 13:23:20,782 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:20,782 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:23:20,783 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:23:20,783 INFO Report build complete.
+2018-03-17 13:23:38,656 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:38,658 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:38,658 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:38,659 INFO Validation of checksum map complete.
+2018-03-17 13:23:38,659 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:23:38,660 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:23:38,660 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:23:38,660 INFO Report build complete.
+2018-03-17 13:25:38,628 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:25:38,629 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:25:38,629 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:25:38,630 INFO Validation of checksum map complete.
+2018-03-17 13:25:38,630 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:25:38,630 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:25:38,630 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:25:38,631 INFO Report build complete.
+2018-03-17 13:28:21,453 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:21,453 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 13:28:21,465 INFO Exclusion set created successfully.
+2018-03-17 13:28:21,468 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:21,469 INFO Success creating checksum map.
+2018-03-17 13:28:43,397 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:43,397 ERROR Attempt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:47,510 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:47,512 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:47,512 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:47,512 INFO Validation of checksum map complete.
+2018-03-17 13:28:47,513 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:28:47,514 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:28:47,514 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:28:47,514 INFO Report build complete.
+2018-03-17 13:29:25,265 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:29:25,284 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:29:25,284 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:29:25,285 INFO Validation of checksum map complete.
+2018-03-17 13:29:25,285 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:29:25,286 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:29:25,286 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:29:25,286 INFO Report build complete.
+2018-03-17 13:30:10,776 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:30:10,778 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:30:10,779 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:30:10,779 INFO Validation of checksum map complete.
+2018-03-17 13:30:10,779 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:30:10,780 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:30:10,780 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:30:10,780 INFO Report build complete.
+2018-03-17 13:37:25,336 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:37:25,365 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:37:25,392 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:37:25,393 INFO Validation of checksum map complete.
+2018-03-17 13:37:25,393 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:37:25,395 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:37:25,395 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:37:25,396 INFO Report build complete.
+2018-03-17 13:41:04,649 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:41:04,678 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:41:04,693 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:41:04,694 INFO Validation of checksum map complete.
+2018-03-17 13:41:04,694 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:41:04,694 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:41:04,695 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:41:04,695 INFO Report build complete.
+2018-03-17 13:42:12,804 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:42:12,834 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:42:12,849 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:42:12,850 INFO Validation of checksum map complete.
+2018-03-17 13:42:12,850 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:42:12,850 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:42:12,851 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:42:12,851 INFO Report build complete.
+2018-03-17 13:44:36,406 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:44:36,447 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:44:36,461 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:44:36,462 INFO Validation of checksum map complete.
+2018-03-17 13:44:36,462 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:44:36,463 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:44:36,464 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:44:36,464 INFO Report build complete.
+2018-03-17 13:45:25,493 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:25,496 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:25,496 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:25,497 INFO Validation of checksum map complete.
+2018-03-17 13:45:25,497 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:25,498 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:45:25,498 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:45:25,498 INFO Report build complete.
+2018-03-17 13:45:56,223 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:56,227 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:56,227 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:56,227 INFO Validation of checksum map complete.
+2018-03-17 13:45:56,228 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:45:56,228 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:45:56,228 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:45:56,228 INFO Report build complete.
+2018-03-17 13:46:56,509 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:46:56,565 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:46:56,573 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:46:56,574 INFO Validation of checksum map complete.
+2018-03-17 13:46:56,575 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:46:56,587 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:46:56,587 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:46:56,596 INFO Report build complete.
+2018-03-17 13:47:19,974 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:47:20,015 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:47:20,029 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:47:20,030 INFO Validation of checksum map complete.
+2018-03-17 13:47:20,030 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:47:20,030 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:47:20,030 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:47:20,031 INFO Report build complete.
+2018-03-17 13:50:27,054 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:50:27,143 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:50:27,169 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:50:27,170 INFO Validation of checksum map complete.
+2018-03-17 13:50:27,170 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:50:27,171 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:50:27,171 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:50:27,187 INFO Report build complete.
+2018-03-17 13:56:25,367 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:56:25,446 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:56:25,471 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:56:25,472 INFO Validation of checksum map complete.
+2018-03-17 13:56:25,473 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:56:25,491 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:56:25,491 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:56:25,500 INFO Report build complete.
+2018-03-17 13:58:02,813 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:58:02,868 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:58:02,894 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:58:02,895 INFO Validation of checksum map complete.
+2018-03-17 13:58:02,895 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:58:02,908 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:58:02,908 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:58:02,923 INFO Report build complete.
+2018-03-17 13:59:43,813 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:59:43,891 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:59:43,900 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:59:43,901 INFO Validation of checksum map complete.
+2018-03-17 13:59:43,901 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 13:59:43,933 INFO Success sending report by email to: administrator@company.com
+2018-03-17 13:59:43,933 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 13:59:43,934 INFO Report build complete.
+2018-03-17 14:00:38,514 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:00:38,581 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:00:38,623 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:00:38,625 INFO Validation of checksum map complete.
+2018-03-17 14:00:38,625 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:00:38,646 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:00:38,647 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:00:38,668 INFO Report build complete.
+2018-03-17 14:01:07,812 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:01:07,841 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:01:07,856 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:01:07,857 INFO Validation of checksum map complete.
+2018-03-17 14:01:07,857 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:01:07,857 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:01:07,858 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:01:07,858 INFO Report build complete.
+2018-03-17 14:02:38,936 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:02:39,026 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:02:39,035 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:02:39,036 INFO Validation of checksum map complete.
+2018-03-17 14:02:39,036 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:02:39,049 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:02:39,049 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:02:39,070 INFO Report build complete.
+2018-03-17 14:03:28,592 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:03:28,682 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:03:28,691 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:03:28,692 INFO Validation of checksum map complete.
+2018-03-17 14:03:28,692 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:03:28,705 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:03:28,705 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:03:28,725 INFO Report build complete.
+2018-03-17 14:24:36,835 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:24:36,890 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:24:36,899 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:24:36,900 INFO Validation of checksum map complete.
+2018-03-17 14:24:36,900 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:24:36,901 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:24:36,901 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:24:36,901 INFO Report build complete.
+2018-03-17 14:26:09,262 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:09,262 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 14:26:09,278 INFO Exclusion set created successfully.
+2018-03-17 14:26:09,281 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:09,282 INFO Success creating checksum map.
+2018-03-17 14:26:13,922 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:13,924 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:13,925 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:13,925 INFO Validation of checksum map complete.
+2018-03-17 14:26:13,925 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:13,926 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:26:13,926 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:26:13,926 INFO Report build complete.
+2018-03-17 14:26:31,433 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:31,453 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:31,453 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:31,454 INFO Validation of checksum map complete.
+2018-03-17 14:26:31,454 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:26:31,455 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:26:31,455 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:26:31,455 INFO Report build complete.
+2018-03-17 14:29:33,580 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:29:33,608 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:29:33,635 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:29:33,637 INFO Validation of checksum map complete.
+2018-03-17 14:29:33,637 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:29:33,637 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:29:33,638 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:29:33,638 INFO Report build complete.
+2018-03-17 14:31:14,862 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:31:14,888 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:31:14,902 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:31:14,903 INFO Validation of checksum map complete.
+2018-03-17 14:31:14,903 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:31:14,903 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:31:14,904 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:31:14,904 INFO Report build complete.
+2018-03-17 14:34:20,658 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:34:20,688 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:34:20,704 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:34:20,705 INFO Validation of checksum map complete.
+2018-03-17 14:34:20,705 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:34:20,705 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:34:20,706 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:34:20,706 INFO Report build complete.
+2018-03-17 14:36:42,026 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:36:42,056 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:36:42,071 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:36:42,072 INFO Validation of checksum map complete.
+2018-03-17 14:36:42,073 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:36:42,073 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:36:42,073 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:36:42,074 INFO Report build complete.
+2018-03-17 14:37:56,726 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:37:56,757 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:37:56,771 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:37:56,772 INFO Validation of checksum map complete.
+2018-03-17 14:37:56,772 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:37:56,773 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:37:56,773 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:37:56,773 INFO Report build complete.
+2018-03-17 14:39:33,044 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:39:33,046 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:39:33,046 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:39:33,047 INFO Validation of checksum map complete.
+2018-03-17 14:39:33,047 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:39:33,047 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:39:33,048 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:39:33,048 INFO Report build complete.
+2018-03-17 14:40:07,840 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:07,919 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:07,920 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:07,921 INFO Validation of checksum map complete.
+2018-03-17 14:40:07,921 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:07,922 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:40:07,922 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:40:07,929 INFO Report build complete.
+2018-03-17 14:40:24,817 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:24,819 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:24,819 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:24,820 INFO Validation of checksum map complete.
+2018-03-17 14:40:24,820 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:24,821 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:40:24,821 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:40:24,821 INFO Report build complete.
+2018-03-17 14:40:38,706 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:38,725 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:38,725 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:38,726 INFO Validation of checksum map complete.
+2018-03-17 14:40:38,726 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:40:38,727 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:40:38,727 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:40:38,728 INFO Report build complete.
+2018-03-17 14:41:25,765 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:25,864 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:25,865 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:25,866 INFO Validation of checksum map complete.
+2018-03-17 14:41:25,866 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:25,882 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:41:25,882 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:41:25,896 INFO Report build complete.
+2018-03-17 14:41:54,018 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:54,058 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:54,058 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:54,059 INFO Validation of checksum map complete.
+2018-03-17 14:41:54,059 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 14:41:54,059 INFO Success sending report by email to: administrator@company.com
+2018-03-17 14:41:54,059 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 14:41:54,060 INFO Report build complete.
+2018-03-17 15:04:12,261 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:04:12,383 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:04:12,392 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:04:12,409 INFO Validation of checksum map complete.
+2018-03-17 15:04:12,410 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:04:13,866 ERROR Error sending report email: (535, 'Authentication Failed')<class 'smtplib.SMTPAuthenticationError'>checksum_validator.py454
+2018-03-17 15:04:13,867 INFO Failed sending report by email to: administrator@company.com
+2018-03-17 15:04:14,388 ERROR Error sending report email: (535, 'Authentication Failed')<class 'smtplib.SMTPAuthenticationError'>checksum_validator.py454
+2018-03-17 15:04:14,389 INFO Failed sending report by email to: administrator2@company.com
+2018-03-17 15:04:14,389 INFO Report build complete.
+2018-03-17 15:09:35,074 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:09:35,152 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:09:35,161 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:09:35,162 INFO Validation of checksum map complete.
+2018-03-17 15:09:35,162 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:09:36,568 ERROR Error sending report email: Connection unexpectedly closed<class 'smtplib.SMTPServerDisconnected'>checksum_validator.py455
+2018-03-17 15:09:36,569 INFO Failed sending report by email to: administrator@company.com
+2018-03-17 15:09:37,402 ERROR Error sending report email: Connection unexpectedly closed<class 'smtplib.SMTPServerDisconnected'>checksum_validator.py455
+2018-03-17 15:09:37,402 INFO Failed sending report by email to: administrator2@company.com
+2018-03-17 15:09:37,403 INFO Report build complete.
+2018-03-17 15:10:39,552 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:10:39,641 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:10:39,650 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:10:39,651 INFO Validation of checksum map complete.
+2018-03-17 15:10:39,651 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:10:40,540 ERROR Error sending report email: Connection unexpectedly closed<class 'smtplib.SMTPServerDisconnected'>checksum_validator.py455
+2018-03-17 15:10:40,540 INFO Failed sending report by email to: administrator@company.com
+2018-03-17 15:10:41,353 ERROR Error sending report email: Connection unexpectedly closed<class 'smtplib.SMTPServerDisconnected'>checksum_validator.py455
+2018-03-17 15:10:41,353 INFO Failed sending report by email to: administrator2@company.com
+2018-03-17 15:10:41,354 INFO Report build complete.
+2018-03-17 15:16:50,124 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:16:50,203 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:16:50,211 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:16:50,212 INFO Validation of checksum map complete.
+2018-03-17 15:16:50,213 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:16:51,337 ERROR Error sending report email: Connection unexpectedly closed<class 'smtplib.SMTPServerDisconnected'>checksum_validator.py454
+2018-03-17 15:16:51,337 INFO Failed sending report by email to: administrator@company.com
+2018-03-17 15:16:52,022 ERROR Error sending report email: Connection unexpectedly closed<class 'smtplib.SMTPServerDisconnected'>checksum_validator.py454
+2018-03-17 15:16:52,022 INFO Failed sending report by email to: administrator2@company.com
+2018-03-17 15:16:52,022 INFO Report build complete.
+2018-03-17 15:20:39,359 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:20:39,448 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:20:39,458 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:20:39,459 INFO Validation of checksum map complete.
+2018-03-17 15:20:39,459 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:20:40,673 INFO Success sending report by email to: administrator@company.com
+2018-03-17 15:20:41,572 INFO Success sending report by email to: administrator2@company.com
+2018-03-17 15:20:41,573 INFO Report build complete.
+2018-03-17 15:21:21,403 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:21:21,432 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:21:21,446 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:21:21,447 INFO Validation of checksum map complete.
+2018-03-17 15:21:21,447 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:21:22,262 INFO Success sending report by email to: joseph@ripplesoftware.ca
+2018-03-17 15:21:22,974 INFO Success sending report by email to: joseph.lee.esl@gmail.com
+2018-03-17 15:21:22,975 INFO Report build complete.
+2018-03-17 15:24:36,882 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:24:36,911 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:24:36,926 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:24:36,927 INFO Validation of checksum map complete.
+2018-03-17 15:24:36,927 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:24:38,296 INFO Success sending report by email to: joseph@ripplesoftware.ca
+2018-03-17 15:24:39,016 INFO Success sending report by email to: joseph.lee.esl@gmail.com
+2018-03-17 15:24:39,017 INFO Report build complete.
+2018-03-17 15:26:50,215 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:26:50,245 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:26:50,260 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:26:50,261 INFO Validation of checksum map complete.
+2018-03-17 15:26:50,261 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:26:51,257 INFO Success sending report by email to: joseph@ripplesoftware.ca
+2018-03-17 15:26:52,008 INFO Success sending report by email to: joseph.lee.esl@gmail.com
+2018-03-17 15:26:52,009 INFO Report build complete.
+2018-03-17 15:29:47,795 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:29:59,184 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:29:59,200 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 15:29:59,217 INFO Exclusion set created successfully.
+2018-03-17 15:29:59,221 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:29:59,251 INFO Success creating checksum map.
+2018-03-17 15:30:03,558 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:30:03,561 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:30:03,561 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:30:03,562 INFO Validation of checksum map complete.
+2018-03-17 15:30:03,562 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:30:04,643 INFO Success sending report by email to: joseph@ripplesoftware.ca
+2018-03-17 15:30:05,373 INFO Success sending report by email to: joseph.lee.esl@gmail.com
+2018-03-17 15:30:05,374 INFO Report build complete.
+2018-03-17 15:32:08,878 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:32:08,880 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:32:08,881 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:32:08,881 INFO Validation of checksum map complete.
+2018-03-17 15:32:08,882 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 15:32:09,858 INFO Success sending report by email to: joseph@ripplesoftware.ca
+2018-03-17 15:32:10,591 INFO Success sending report by email to: joseph.lee.esl@gmail.com
+2018-03-17 15:32:10,592 INFO Report build complete.
+2018-03-17 16:17:07,842 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:17:07,855 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:17:07,855 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:17:07,856 INFO Validation of checksum map complete.
+2018-03-17 16:17:07,856 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:17:07,857 INFO Report build complete.
+2018-03-17 16:18:02,619 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:02,621 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:02,621 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:02,622 INFO Validation of checksum map complete.
+2018-03-17 16:18:02,622 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:02,622 INFO Report build complete.
+2018-03-17 16:18:08,305 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:08,307 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:08,307 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:08,308 INFO Validation of checksum map complete.
+2018-03-17 16:18:08,308 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:18:08,309 INFO Report build complete.
+2018-03-17 16:59:25,161 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:59:25,182 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:59:25,182 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 16:59:25,189 INFO Exclusion set created successfully.
+2018-03-17 16:59:25,192 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 16:59:25,193 INFO Success creating checksum map.
+2018-03-17 17:01:38,730 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:04:28,072 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:04:28,106 ERROR Error resetting checksum map: [Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validator/log/Users_development_Documents_Software_scripts_python_checksum_validator_test_suite_data'[Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validator/log/Users_development_Documents_Software_scripts_python_checksum_validator_test_suite_data'<type 'exceptions.IOError'>checksum_validator.py117
+2018-03-17 17:04:28,106 INFO Failed to reset existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:06:19,181 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:06:19,182 ERROR Error resetting checksum map: [Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validator/log/Users_development_Documents_Software_scripts_python_checksum_validator_test_suite_data'[Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validator/log/Users_development_Documents_Software_scripts_python_checksum_validator_test_suite_data'<type 'exceptions.IOError'>checksum_validator.py117
+2018-03-17 17:06:19,182 INFO Failed to reset existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:06:57,307 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:06:57,307 ERROR Error resetting checksum map: [Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validator/log/Users_development_Documents_Software_scripts_python_checksum_validator_test_suite_data'[Errno 2] No such file or directory: '/Users/development/Documents/Software/scripts/python/checksum_validator/log/Users_development_Documents_Software_scripts_python_checksum_validator_test_suite_data'<type 'exceptions.IOError'>checksum_validator.py117
+2018-03-17 17:06:57,308 INFO Failed to reset existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:08:33,999 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:08:33,999 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 17:08:34,018 INFO Exclusion set created successfully.
+2018-03-17 17:08:34,020 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:08:34,022 INFO Success creating checksum map.
+2018-03-17 17:08:46,235 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:08:46,235 INFO Failed to reset existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:08:56,734 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:08:56,735 ERROR Attempt to build checksum map for application that already exists: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:09:17,871 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:09:17,872 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:09:17,872 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-17 17:09:17,872 INFO Exclusion set created successfully.
+2018-03-17 17:09:17,875 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-17 17:09:17,875 INFO Success creating checksum map.
+2018-03-24 13:07:52,421 ERROR Failed to parse reset mode argument: list index out of range<type 'exceptions.IndexError'>checksum_validator.py570
+2018-03-24 22:25:16,273 ERROR Failed to parse reset mode argument: list index out of range<type 'exceptions.IndexError'>checksum_validator.py570
+2018-03-24 22:28:05,357 ERROR Failed to parse reset mode argument: list index out of range<type 'exceptions.IndexError'>checksum_validator.py570
+2018-03-24 22:37:29,228 ERROR Failed to parse reset mode argument: list index out of range<type 'exceptions.IndexError'>checksum_validator.py570
+2018-03-24 22:40:05,204 ERROR Failed to parse reset mode argument: list index out of range<type 'exceptions.IndexError'>checksum_validator.py570
+2018-03-24 22:40:51,074 WARNING Command line argument entered incorrectly.
+2018-03-24 22:45:29,580 WARNING Command line argument entered incorrectly.
+2018-03-24 22:46:17,950 WARNING Command line argument entered incorrectly.
+2018-03-24 22:46:32,290 WARNING Command line argument entered incorrectly.
+2018-03-24 22:46:47,019 WARNING Command line argument entered incorrectly.
+2018-03-24 22:47:08,804 WARNING Command line argument entered incorrectly.
+2018-03-24 22:52:05,498 WARNING Command line argument entered incorrectly.
+2018-03-24 22:53:46,431 WARNING Command line argument entered incorrectly.
+2018-03-24 22:53:58,354 WARNING Command line argument entered incorrectly.
+2018-03-24 22:54:34,229 WARNING Command line argument entered incorrectly.
+2018-03-24 22:54:50,955 ERROR Failed to parse reset mode argument: pop index out of range<type 'exceptions.IndexError'>checksum_validator.py579
+2018-03-24 22:55:10,730 ERROR Failed to parse reset mode argument: pop index out of range<type 'exceptions.IndexError'>checksum_validator.py576
+2018-03-24 22:57:00,116 INFO Resetting existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-24 22:57:00,180 INFO Checking for existing map for the application directory... /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-24 22:57:00,181 INFO Building exclusion set from file pointer : /Users/development/Documents/Software/scripts/python/checksum_validator/exclusion.cnf
+2018-03-24 22:57:00,202 INFO Exclusion set created successfully.
+2018-03-24 22:57:00,206 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-24 22:57:00,230 INFO Success creating checksum map.
+2018-03-24 23:07:27,838 INFO Staring to validate application integrity /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-24 23:07:27,887 INFO Success creating filepath map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-24 23:07:27,889 INFO Success creating checksum map: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-24 23:07:27,890 INFO Validation of checksum map complete.
+2018-03-24 23:07:27,890 INFO Validation completed successfully: /Users/development/Documents/Software/scripts/python/checksum_validator/test_suite/
+2018-03-24 23:07:27,890 INFO Report build complete.

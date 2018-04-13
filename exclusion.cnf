@@ -1,0 +1,18 @@
+# Comment lines start with "#"
+# add the relative directory name to exclude a directory
+# add a relative directory path and filename to exclude a single file
+
+# Example: exclude an entire directory (must start and end with "/")
+# /dir1/
+# Example: exclude a specific file from root directory
+# /file4.txt
+# Example: exclude a specific filename all directories
+# file4.txt
+# Example: exclude a specific file from nested directory
+# /dir4/file4.txt
+
+# Ignore these directories and files
+/dir1/
+.DS_Store
+/dir3/dir5/file5
+/dir3/dir5/dir6/

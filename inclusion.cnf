@@ -1,0 +1,10 @@
+# Comment lines start with "#"
+# add the relative directory name to include a directory
+# add a relative directory path and filename to include a single file
+
+# Example: include an entire directory (must start and end with "/")
+# /dir1/
+# Example: include a specific file from root directory
+# /file4.txt
+# Example: include a specific file from nested directory
+# /dir4/file4.txt
